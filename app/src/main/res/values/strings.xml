@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Operaciones basicas</string>
+    <string name="placeholder1">Numero 1</string>
+    <string name="placeholder2">Numero 2</string>
+</resources>
